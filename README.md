@@ -13,5 +13,4 @@ The course required to realize a thematic blog focused on a technology related f
 
 #### Notes
 [Blog link](https://wirtualcare.altervista.org/?doing_wp_cron=1656854321.7694571018218994140625)
-
 [My articles](https://wirtualcare.altervista.org/author/umberto-pasinetti)
