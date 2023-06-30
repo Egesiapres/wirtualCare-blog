@@ -1,4 +1,4 @@
-# WirtualCare
+# WirtualCare blog
 
 ### Description
 My university project of the Web Tools and Application course
