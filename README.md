@@ -1,5 +1,8 @@
 # WirtualCare blog
 
+### Preview
+<img width="1512" alt="Screenshot 2023-07-07 at 10 15 03" src="https://github.com/Egesiapres/wirtualCare-blog/assets/1301054/bc83b378-571d-440a-95c5-9d07867cd199">
+
 ### Description
 My university project of the Web Tools and Application course (I MSc year)
 
@@ -17,6 +20,3 @@ The course required to realize a thematic blog focused on a technology related f
 [My articles](https://wirtualcare.altervista.org/author/umberto-pasinetti)
 
 [My final article](https://wirtualcare.altervista.org/v-therapy/hikikomori-e-realta-virtuale-una-nuova-metodologia-dintervento/)
-
-### Preview
-<img width="1512" alt="Screenshot 2023-07-07 at 10 15 03" src="https://github.com/Egesiapres/wirtualCare-blog/assets/1301054/bc83b378-571d-440a-95c5-9d07867cd199">
